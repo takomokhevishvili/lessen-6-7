@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'ALK Life';
+    src: url('../fonts/alk-life-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/alk-life-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/alk-life-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/alk-life-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/alk-life-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/alk-life-webfont.svg#alk_liferegular') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('../fonts/JosefinSans-LightItalic.eot');
+    src: url('../fonts/JosefinSans-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/JosefinSans-LightItalic.woff2') format('woff2'),
+        url('../fonts/JosefinSans-LightItalic.woff') format('woff'),
+        url('../fonts/JosefinSans-LightItalic.ttf') format('truetype'),
+        url('../fonts/JosefinSans-LightItalic.svg#JosefinSans-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Karla';
+    src: url('../fonts/Karla-ExtraLight.eot');
+    src: url('../fonts/Karla-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Karla-ExtraLight.woff2') format('woff2'),
+        url('../fonts/Karla-ExtraLight.woff') format('woff'),
+        url('../fonts/Karla-ExtraLight.ttf') format('truetype'),
+        url('../fonts/Karla-ExtraLight.svg#Karla-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}   
+@font-face {
+    font-family: 'Karla';
+    src: url('../fonts/Karla-Medium.eot');
+    src: url('../fonts/Karla-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Karla-Medium.woff2') format('woff2'),
+        url('../fonts/Karla-Medium.woff') format('woff'),
+        url('../fonts/Karla-Medium.ttf') format('truetype'),
+        url('../fonts/Karla-Medium.svg#Karla-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+} 
+
