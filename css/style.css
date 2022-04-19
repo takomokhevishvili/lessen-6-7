@@ -1,15 +1,43 @@
+/*hedder*/
+html, body {
+	width: 100%;
+	height: 100%;
+}
+.home-hedder{
+	position: fixed;
+}
+.herd-img {
+	width: 100%;
+}
+.home {
+	margin-top: 80px;
+}
+.exp-paragraph {
+	margin-right:50px;
+}
+.header-div {
+	float: left;
+	margin-left: 250px;
+	margin-top: 40px;
+	display: inline-block;
+}
 .nav-blok {
+	float: right;
+	margin-left: 50px;
 	display: inline-block;
 }
 .nav-1 {
-	margin-right: 700;
+	display: inline-block;
+	color: black;
 }
-.img-wrapper {
-	margin-left: 300px;
+.main-nav {
+	margin-right: 200px;
+	margin-top: 40px;
 }
-.exp-paragraph {
-	margin-right: 75px;
+.clear {
+	clear: both;
+} 
+.inline-wrapper {
+	display: inline-block;
 }
-.blog-parag {
-	margin-right: 790px;
-}
+/*section*/
