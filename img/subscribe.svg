@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="186" height="44" viewBox="0 0 186 44">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="186" height="44" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1.014" y2="0.578" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6294a2"/>
+      <stop offset="1" stop-color="#58c3dd"/>
+    </linearGradient>
+    <filter id="Rectangle_2" x="-15" y="-12" width="216" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_4_2" data-name="Component 4 – 2" clip-path="url(#clip-path)">
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_2)">
+      <rect id="Rectangle_2-2" data-name="Rectangle 2" width="186" height="44" rx="22" fill="url(#linear-gradient)"/>
+    </g>
+    <text id="Subscribe" transform="translate(93 27)" fill="#f0f0f0" font-size="17" font-family="AcuminPro-Bold, Acumin Pro" font-weight="700"><tspan x="-39.933" y="0">Subscribe</tspan></text>
+  </g>
+</svg>
